@@ -1,0 +1,64 @@
+Install git 
+git --version 
+git config user.name "username"
+git config user.mail "email"
+mkdir - ro make directory
+ls - to see files in folder
+ls -l - to see detailed specifications of files. 
+
+Creating a repository
+git init - initialize git repository 
+- it creates a hidden directory and we can see that by using ls -a
+git status - it indicates comments and branches on which we are working
+git touch - to create file 
+
+
+
+
+
+
+
+
+  1  pwd
+    2  ls
+    3  ls
+    4  clear
+    5  git - v
+    6  git --version
+    7  git config --global user.name "santosh2407"
+    8  git config --global user.mail "santosh.achary0706@gmail.com"
+    9  clear
+   10  whoami
+   11  clear
+   12  whoami
+   13  clear
+   14  pwd
+   15  mkdir git_demo
+   16  cd git_demo
+   17  ls
+   18  pwd
+   19  clear
+   20  ls -l
+   21  cd ..
+   22  ls -l
+   23  ls
+   24  ls -l
+   25  ls -F
+   26  clear
+   27  git help
+   28  cd git_demo
+   29  git init
+   30  ls
+   31  ls
+   32  ls -a
+   33  git status
+   34  history
+   35  touch demo.txt
+   36  ls
+   37  git add demo.txt
+   38  ls
+   39  git status
+   40  git commit -m "First Commit"
+   41  git status
+   42  history
+
