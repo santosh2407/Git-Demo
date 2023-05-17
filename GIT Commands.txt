@@ -62,3 +62,4 @@ git touch - to create file
    41  git status
    42  history
 
+This is an edited file 
